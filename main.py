@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Source: https://github.com/henkwymeersch/RISLensLocalization
+# Convert Matlab code to Python
+
 import numpy as np
 
 import helper_funcs
